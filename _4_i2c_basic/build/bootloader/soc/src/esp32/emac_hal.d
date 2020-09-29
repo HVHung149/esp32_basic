@@ -1,6 +1,6 @@
 src/esp32/emac_hal.o: \
  /home/viethung/esp/esp-idf/components/soc/src/esp32/emac_hal.c \
- /home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h \
+ /home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h \
  /home/viethung/esp/esp-idf/components/xtensa/include/esp_attr.h \
  /home/viethung/esp/esp-idf/components/soc/soc/include/soc/gpio_periph.h \
  /home/viethung/esp/esp-idf/components/soc/soc/esp32/include/soc/io_mux_reg.h \
@@ -28,7 +28,7 @@ src/esp32/emac_hal.o: \
  /home/viethung/esp/esp-idf/components/soc/soc/esp32/include/soc/emac_mac_struct.h \
  /home/viethung/esp/esp-idf/components/soc/soc/esp32/include/soc/emac_ext_struct.h
 
-/home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h:
+/home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h:
 
 /home/viethung/esp/esp-idf/components/xtensa/include/esp_attr.h:
 

@@ -2,7 +2,7 @@ src/hal/spi_slave_hal.o: \
  /home/viethung/esp/esp-idf/components/soc/src/hal/spi_slave_hal.c \
  /home/viethung/esp/esp-idf/components/soc/include/hal/spi_slave_hal.h \
  /home/viethung/esp/esp-idf/components/soc/include/soc/lldesc.h \
- /home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h \
+ /home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h \
  /home/viethung/esp/esp-idf/components/esp_rom/include/esp32/rom/lldesc.h \
  /home/viethung/esp/esp-idf/components/soc/soc/esp32/include/soc/spi_struct.h \
  /home/viethung/esp/esp-idf/components/esp_common/include/esp_types.h \
@@ -25,7 +25,7 @@ src/hal/spi_slave_hal.o: \
 
 /home/viethung/esp/esp-idf/components/soc/include/soc/lldesc.h:
 
-/home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h:
+/home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h:
 
 /home/viethung/esp/esp-idf/components/esp_rom/include/esp32/rom/lldesc.h:
 

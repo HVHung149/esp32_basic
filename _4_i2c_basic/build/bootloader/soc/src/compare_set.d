@@ -16,7 +16,7 @@ src/compare_set.o: \
  /home/viethung/esp/esp-idf/components/soc/include/hal/cpu_types.h \
  /home/viethung/esp/esp-idf/components/soc/src/esp32/include/hal/cpu_ll.h \
  /home/viethung/esp/esp-idf/components/xtensa/include/esp_attr.h \
- /home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h \
+ /home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h \
  /home/viethung/esp/esp-idf/components/soc/soc/esp32/include/soc/cpu_caps.h \
  /home/viethung/esp/esp-idf/components/xtensa/esp32/include/xtensa/config/extreg.h \
  /home/viethung/esp/esp-idf/components/esp_common/include/esp_bit_defs.h \
@@ -60,7 +60,7 @@ src/compare_set.o: \
 
 /home/viethung/esp/esp-idf/components/xtensa/include/esp_attr.h:
 
-/home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h:
+/home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h:
 
 /home/viethung/esp/esp-idf/components/soc/soc/esp32/include/soc/cpu_caps.h:
 

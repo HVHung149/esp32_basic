@@ -10,7 +10,7 @@ soc/esp32/spi_periph.o: \
  /home/viethung/esp/esp-idf/components/soc/soc/esp32/include/soc/soc.h \
  /home/viethung/esp/esp-idf/components/soc/soc/esp32/include/soc/spi_struct.h \
  /home/viethung/esp/esp-idf/components/soc/soc/esp32/include/soc/gpio_sig_map.h \
- /home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h
+ /home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h
 
 /home/viethung/esp/esp-idf/components/soc/soc/include/soc/spi_periph.h:
 
@@ -32,5 +32,5 @@ soc/esp32/spi_periph.o: \
 
 /home/viethung/esp/esp-idf/components/soc/soc/esp32/include/soc/gpio_sig_map.h:
 
-/home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h:
+/home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h:
 /home/viethung/esp/esp-idf/components/soc/soc/esp32/spi_periph.c:

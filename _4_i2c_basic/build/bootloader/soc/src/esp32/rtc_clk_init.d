@@ -1,7 +1,7 @@
 src/esp32/rtc_clk_init.o: \
  /home/viethung/esp/esp-idf/components/soc/src/esp32/rtc_clk_init.c \
  /home/viethung/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
- /home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h \
+ /home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h \
  /home/viethung/esp/esp-idf/components/esp_rom/include/esp32/rom/rtc.h \
  /home/viethung/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
  /home/viethung/esp/esp-idf/components/soc/soc/esp32/include/soc/soc.h \
@@ -50,7 +50,7 @@ src/esp32/rtc_clk_init.o: \
 
 /home/viethung/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h:
 
-/home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h:
+/home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h:
 
 /home/viethung/esp/esp-idf/components/esp_rom/include/esp32/rom/rtc.h:
 

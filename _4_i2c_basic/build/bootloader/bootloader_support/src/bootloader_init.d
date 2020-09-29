@@ -1,6 +1,6 @@
 src/bootloader_init.o: \
  /home/viethung/esp/esp-idf/components/bootloader_support/src/bootloader_init.c \
- /home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h \
+ /home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h \
  /home/viethung/esp/esp-idf/components/xtensa/include/esp_attr.h \
  /home/viethung/esp/esp-idf/components/log/include/esp_log.h \
  /home/viethung/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
@@ -61,7 +61,7 @@ src/bootloader_init.o: \
  /home/viethung/esp/esp-idf/components/soc/src/esp32/include/hal/rwdt_ll.h \
  /home/viethung/esp/esp-idf/components/soc/soc/include/soc/rtc_cntl_periph.h
 
-/home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h:
+/home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h:
 
 /home/viethung/esp/esp-idf/components/xtensa/include/esp_attr.h:
 

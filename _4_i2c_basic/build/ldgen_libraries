@@ -36,9 +36,11 @@
  /home/viethung/esp32_basic/_4_i2c_basic/build/freemodbus/libfreemodbus.a
  /home/viethung/esp32_basic/_4_i2c_basic/build/freertos/libfreertos.a
  /home/viethung/esp32_basic/_4_i2c_basic/build/heap/libheap.a
+ /home/viethung/esp32_basic/_4_i2c_basic/build/i2c_master/libi2c_master.a
  /home/viethung/esp32_basic/_4_i2c_basic/build/idf_test/libidf_test.a
  /home/viethung/esp32_basic/_4_i2c_basic/build/jsmn/libjsmn.a
  /home/viethung/esp32_basic/_4_i2c_basic/build/json/libjson.a
+ /home/viethung/esp32_basic/_4_i2c_basic/build/lcd/liblcd.a
  /home/viethung/esp32_basic/_4_i2c_basic/build/libsodium/liblibsodium.a
  /home/viethung/esp32_basic/_4_i2c_basic/build/log/liblog.a
  /home/viethung/esp32_basic/_4_i2c_basic/build/lwip/liblwip.a

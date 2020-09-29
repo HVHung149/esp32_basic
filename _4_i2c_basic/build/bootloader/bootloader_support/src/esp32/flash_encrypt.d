@@ -3,7 +3,7 @@ src/esp32/flash_encrypt.o: \
  /home/viethung/esp/esp-idf/components/bootloader_support/include_bootloader/bootloader_flash.h \
  /home/viethung/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/viethung/esp/esp-idf/components/spi_flash/include/esp_spi_flash.h \
- /home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h \
+ /home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h \
  /home/viethung/esp/esp-idf/components/bootloader_support/include/esp_image_format.h \
  /home/viethung/esp/esp-idf/components/bootloader_support/include/esp_flash_partitions.h \
  /home/viethung/esp/esp-idf/components/esp_common/include/esp_types.h \
@@ -56,7 +56,7 @@ src/esp32/flash_encrypt.o: \
 
 /home/viethung/esp/esp-idf/components/spi_flash/include/esp_spi_flash.h:
 
-/home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h:
+/home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h:
 
 /home/viethung/esp/esp-idf/components/bootloader_support/include/esp_image_format.h:
 

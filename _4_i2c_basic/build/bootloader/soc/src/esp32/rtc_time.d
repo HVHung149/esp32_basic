@@ -1,7 +1,7 @@
 src/esp32/rtc_time.o: \
  /home/viethung/esp/esp-idf/components/soc/src/esp32/rtc_time.c \
  /home/viethung/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
- /home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h \
+ /home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h \
  /home/viethung/esp/esp-idf/components/soc/soc/esp32/include/soc/rtc.h \
  /home/viethung/esp/esp-idf/components/soc/soc/esp32/include/soc/soc.h \
  /home/viethung/esp/esp-idf/components/esp_common/include/esp_assert.h \
@@ -26,7 +26,7 @@ src/esp32/rtc_time.o: \
 
 /home/viethung/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h:
 
-/home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h:
+/home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h:
 
 /home/viethung/esp/esp-idf/components/soc/soc/esp32/include/soc/rtc.h:
 

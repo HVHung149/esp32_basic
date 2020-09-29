@@ -1,6 +1,6 @@
 esp32/esp_efuse_table.o: \
  /home/viethung/esp/esp-idf/components/efuse/esp32/esp_efuse_table.c \
- /home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h \
+ /home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h \
  /home/viethung/esp/esp-idf/components/efuse/include/esp_efuse.h \
  /home/viethung/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/viethung/esp/esp-idf/components/log/include/esp_log.h \
@@ -10,7 +10,7 @@ esp32/esp_efuse_table.o: \
  /home/viethung/esp/esp-idf/components/efuse/include/esp32/esp_efuse.h \
  /home/viethung/esp/esp-idf/components/efuse/esp32/include/esp_efuse_table.h
 
-/home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h:
+/home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h:
 
 /home/viethung/esp/esp-idf/components/efuse/include/esp_efuse.h:
 

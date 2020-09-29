@@ -1,6 +1,6 @@
 src/esp_efuse_fields.o: \
  /home/viethung/esp/esp-idf/components/efuse/src/esp_efuse_fields.c \
- /home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h \
+ /home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h \
  /home/viethung/esp/esp-idf/components/efuse/include/esp_efuse.h \
  /home/viethung/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/viethung/esp/esp-idf/components/log/include/esp_log.h \
@@ -21,7 +21,7 @@ src/esp_efuse_fields.o: \
  /home/viethung/esp/esp-idf/components/soc/soc/esp32/include/soc/apb_ctrl_reg.h \
  /home/viethung/esp/esp-idf/components/esp_rom/include/esp32/rom/efuse.h
 
-/home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h:
+/home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h:
 
 /home/viethung/esp/esp-idf/components/efuse/include/esp_efuse.h:
 

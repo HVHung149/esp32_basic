@@ -17,7 +17,7 @@ src/hal/gpio_hal.o: \
  /home/viethung/esp/esp-idf/components/soc/include/hal/gpio_types.h \
  /home/viethung/esp/esp-idf/components/esp_rom/include/esp32/rom/gpio.h \
  /home/viethung/esp/esp-idf/components/xtensa/include/esp_attr.h \
- /home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h
+ /home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h
 
 /home/viethung/esp/esp-idf/components/soc/soc/esp32/include/soc/soc.h:
 
@@ -53,5 +53,5 @@ src/hal/gpio_hal.o: \
 
 /home/viethung/esp/esp-idf/components/xtensa/include/esp_attr.h:
 
-/home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h:
+/home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h:
 /home/viethung/esp/esp-idf/components/soc/src/hal/gpio_hal.c:

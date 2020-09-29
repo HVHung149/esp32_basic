@@ -1,4 +1,5 @@
 main.o: /home/viethung/esp32_basic/_4_i2c_basic/main/main.c \
+ /home/viethung/esp32_basic/_4_i2c_basic/components/i2c_master/include/i2c_protocol.h \
  /home/viethung/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
  /home/viethung/esp/esp-idf/components/esp_common/include/esp_compiler.h \
  /home/viethung/esp/esp-idf/components/freertos/xtensa/include/freertos/FreeRTOSConfig.h \
@@ -66,7 +67,10 @@ main.o: /home/viethung/esp32_basic/_4_i2c_basic/main/main.c \
  /home/viethung/esp/esp-idf/components/freertos/include/freertos/queue.h \
  /home/viethung/esp/esp-idf/components/esp_ringbuf/include/freertos/ringbuf.h \
  /home/viethung/esp/esp-idf/components/soc/include/hal/i2c_types.h \
- /home/viethung/esp/esp-idf/components/soc/soc/esp32/include/soc/i2c_caps.h
+ /home/viethung/esp/esp-idf/components/soc/soc/esp32/include/soc/i2c_caps.h \
+ /home/viethung/esp32_basic/_4_i2c_basic/components/lcd/include/lcd_16x04.h
+
+/home/viethung/esp32_basic/_4_i2c_basic/components/i2c_master/include/i2c_protocol.h:
 
 /home/viethung/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h:
 
@@ -203,4 +207,6 @@ main.o: /home/viethung/esp32_basic/_4_i2c_basic/main/main.c \
 /home/viethung/esp/esp-idf/components/soc/include/hal/i2c_types.h:
 
 /home/viethung/esp/esp-idf/components/soc/soc/esp32/include/soc/i2c_caps.h:
+
+/home/viethung/esp32_basic/_4_i2c_basic/components/lcd/include/lcd_16x04.h:
 /home/viethung/esp32_basic/_4_i2c_basic/main/./main.c:

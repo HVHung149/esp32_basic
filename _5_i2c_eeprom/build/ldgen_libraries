@@ -8,6 +8,7 @@
  /home/viethung/esp32_basic/_5_i2c_eeprom/build/console/libconsole.a
  /home/viethung/esp32_basic/_5_i2c_eeprom/build/cxx/libcxx.a
  /home/viethung/esp32_basic/_5_i2c_eeprom/build/driver/libdriver.a
+ /home/viethung/esp32_basic/_5_i2c_eeprom/build/eeprom24C/libeeprom24C.a
  /home/viethung/esp32_basic/_5_i2c_eeprom/build/efuse/libefuse.a
  /home/viethung/esp32_basic/_5_i2c_eeprom/build/esp-tls/libesp-tls.a
  /home/viethung/esp32_basic/_5_i2c_eeprom/build/esp32/libesp32.a
@@ -36,6 +37,7 @@
  /home/viethung/esp32_basic/_5_i2c_eeprom/build/freemodbus/libfreemodbus.a
  /home/viethung/esp32_basic/_5_i2c_eeprom/build/freertos/libfreertos.a
  /home/viethung/esp32_basic/_5_i2c_eeprom/build/heap/libheap.a
+ /home/viethung/esp32_basic/_5_i2c_eeprom/build/i2c_master/libi2c_master.a
  /home/viethung/esp32_basic/_5_i2c_eeprom/build/idf_test/libidf_test.a
  /home/viethung/esp32_basic/_5_i2c_eeprom/build/jsmn/libjsmn.a
  /home/viethung/esp32_basic/_5_i2c_eeprom/build/json/libjson.a

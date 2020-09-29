@@ -1,6 +1,6 @@
 esp32/spi_flash_rom_patch.o: \
  /home/viethung/esp/esp-idf/components/spi_flash/esp32/spi_flash_rom_patch.c \
- /home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h \
+ /home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h \
  /home/viethung/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
  /home/viethung/esp/esp-idf/components/esp_rom/include/esp32/rom/gpio.h \
  /home/viethung/esp/esp-idf/components/xtensa/include/esp_attr.h \
@@ -16,7 +16,7 @@ esp32/spi_flash_rom_patch.o: \
  /home/viethung/esp/esp-idf/components/soc/soc/esp32/include/soc/spi_struct.h \
  /home/viethung/esp/esp-idf/components/soc/soc/esp32/include/soc/gpio_sig_map.h
 
-/home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h:
+/home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h:
 
 /home/viethung/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h:
 

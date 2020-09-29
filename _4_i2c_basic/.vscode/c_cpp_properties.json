@@ -5,6 +5,7 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 "${workspaceFolder}/build",
+                "${workspaceFolder}/component",
                 "${env:IDF_PATH}/components/**",
                 "/usr/include/linux"
             ],

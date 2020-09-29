@@ -1,6 +1,6 @@
 src/cpu_util.o: /home/viethung/esp/esp-idf/components/soc/src/cpu_util.c \
  /home/viethung/esp/esp-idf/components/xtensa/include/esp_attr.h \
- /home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h \
+ /home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h \
  /home/viethung/esp/esp-idf/components/soc/include/soc/cpu.h \
  /home/viethung/esp/esp-idf/components/xtensa/include/xtensa/corebits.h \
  /home/viethung/esp/esp-idf/components/xtensa/esp32/include/xtensa/config/core.h \
@@ -38,7 +38,7 @@ src/cpu_util.o: /home/viethung/esp/esp-idf/components/soc/src/cpu_util.c \
 
 /home/viethung/esp/esp-idf/components/xtensa/include/esp_attr.h:
 
-/home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h:
+/home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h:
 
 /home/viethung/esp/esp-idf/components/soc/include/soc/cpu.h:
 

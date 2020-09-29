@@ -22,7 +22,7 @@ src/hal/dac_hal.o: \
  /home/viethung/esp/esp-idf/components/soc/soc/esp32/include/soc/dac_channel.h \
  /home/viethung/esp/esp-idf/components/soc/soc/esp32/include/soc/dac_caps.h \
  /home/viethung/esp/esp-idf/components/soc/include/hal/dac_types.h \
- /home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h \
+ /home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h \
  /home/viethung/esp/esp-idf/components/soc/include/hal/hal_defs.h \
  /home/viethung/esp/esp-idf/components/log/include/esp_log.h \
  /home/viethung/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
@@ -73,7 +73,7 @@ src/hal/dac_hal.o: \
 
 /home/viethung/esp/esp-idf/components/soc/include/hal/dac_types.h:
 
-/home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h:
+/home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h:
 
 /home/viethung/esp/esp-idf/components/soc/include/hal/hal_defs.h:
 

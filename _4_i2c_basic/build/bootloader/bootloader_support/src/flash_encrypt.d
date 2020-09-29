@@ -1,6 +1,6 @@
 src/flash_encrypt.o: \
  /home/viethung/esp/esp-idf/components/bootloader_support/src/flash_encrypt.c \
- /home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h \
+ /home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h \
  /home/viethung/esp/esp-idf/components/log/include/esp_log.h \
  /home/viethung/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
  /home/viethung/esp/esp-idf/components/log/include/esp_log_internal.h \
@@ -23,7 +23,7 @@ src/flash_encrypt.o: \
  /home/viethung/esp/esp-idf/components/bootloader_support/include/esp_app_format.h \
  /home/viethung/esp/esp-idf/components/esp_rom/include/esp32/rom/secure_boot.h
 
-/home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h:
+/home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h:
 
 /home/viethung/esp/esp-idf/components/log/include/esp_log.h:
 

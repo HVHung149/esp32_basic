@@ -4,7 +4,7 @@ src/bootloader_efuse_esp32.o: \
  /home/viethung/esp/esp-idf/components/bootloader_support/include/esp_flash_partitions.h \
  /home/viethung/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/viethung/esp/esp-idf/components/esp_common/include/esp_types.h \
- /home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h \
+ /home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h \
  /home/viethung/esp/esp-idf/components/bootloader_support/include/esp_image_format.h \
  /home/viethung/esp/esp-idf/components/bootloader_support/include/esp_app_format.h \
  /home/viethung/esp/esp-idf/components/esp_rom/include/esp32/rom/rtc.h \
@@ -26,7 +26,7 @@ src/bootloader_efuse_esp32.o: \
 
 /home/viethung/esp/esp-idf/components/esp_common/include/esp_types.h:
 
-/home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h:
+/home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h:
 
 /home/viethung/esp/esp-idf/components/bootloader_support/include/esp_image_format.h:
 

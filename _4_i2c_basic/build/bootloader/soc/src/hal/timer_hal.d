@@ -1,7 +1,7 @@
 src/hal/timer_hal.o: \
  /home/viethung/esp/esp-idf/components/soc/src/hal/timer_hal.c \
  /home/viethung/esp/esp-idf/components/xtensa/include/esp_attr.h \
- /home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h \
+ /home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h \
  /home/viethung/esp/esp-idf/components/soc/include/hal/timer_hal.h \
  /home/viethung/esp/esp-idf/components/soc/src/esp32/include/hal/timer_ll.h \
  /home/viethung/esp/esp-idf/components/soc/include/hal/timer_types.h \
@@ -15,7 +15,7 @@ src/hal/timer_hal.o: \
 
 /home/viethung/esp/esp-idf/components/xtensa/include/esp_attr.h:
 
-/home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h:
+/home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h:
 
 /home/viethung/esp/esp-idf/components/soc/include/hal/timer_hal.h:
 

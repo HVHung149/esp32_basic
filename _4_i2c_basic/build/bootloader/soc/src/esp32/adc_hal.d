@@ -15,7 +15,7 @@ src/esp32/adc_hal.o: \
  /home/viethung/esp/esp-idf/components/soc/soc/esp32/include/soc/adc_channel.h \
  /home/viethung/esp/esp-idf/components/soc/soc/esp32/include/soc/adc_caps.h \
  /home/viethung/esp/esp-idf/components/soc/include/hal/adc_types.h \
- /home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h \
+ /home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h \
  /home/viethung/esp/esp-idf/components/soc/include/hal/adc_hal.h
 
 /home/viethung/esp/esp-idf/components/soc/src/esp32/include/hal/adc_hal.h:
@@ -48,7 +48,7 @@ src/esp32/adc_hal.o: \
 
 /home/viethung/esp/esp-idf/components/soc/include/hal/adc_types.h:
 
-/home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h:
+/home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h:
 
 /home/viethung/esp/esp-idf/components/soc/include/hal/adc_hal.h:
 /home/viethung/esp/esp-idf/components/soc/src/esp32/adc_hal.c:

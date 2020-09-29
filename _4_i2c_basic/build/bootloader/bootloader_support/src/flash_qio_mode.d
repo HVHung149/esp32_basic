@@ -1,7 +1,7 @@
 src/flash_qio_mode.o: \
  /home/viethung/esp/esp-idf/components/bootloader_support/src/flash_qio_mode.c \
  /home/viethung/esp/esp-idf/components/bootloader_support/include/bootloader_flash_config.h \
- /home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h \
+ /home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h \
  /home/viethung/esp/esp-idf/components/bootloader_support/include/esp_image_format.h \
  /home/viethung/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/viethung/esp/esp-idf/components/bootloader_support/include/esp_flash_partitions.h \
@@ -25,7 +25,7 @@ src/flash_qio_mode.o: \
 
 /home/viethung/esp/esp-idf/components/bootloader_support/include/bootloader_flash_config.h:
 
-/home/viethung/esp32_basic/_1_gpio/build/bootloader/../include/sdkconfig.h:
+/home/viethung/esp32_basic/_4_i2c_basic/build/bootloader/../include/sdkconfig.h:
 
 /home/viethung/esp/esp-idf/components/bootloader_support/include/esp_image_format.h:
 
