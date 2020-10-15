@@ -56,7 +56,16 @@ void i2c_send_string(char *string_data)
 }
 void LCD_goto_XY(int X, int Y)
 {
-    
+    if(Y>2 || Y<1) 
+    {
+        printf("wrong rows\n");
+        return;
+    }
+    else
+    {
+        BYTE cmd=(Y==1)?0x80|X:0xC0|X; 
+        i2c_send_command(cmd);
+    }
 }
 void LCD_INIT()
 {
@@ -66,18 +75,18 @@ void LCD_INIT()
     i2c_send_command(0x32);
     vTaskDelay(50 / portTICK_PERIOD_MS);
 
-    i2c_send_command(0x28);
+    i2c_send_command(LCD_2_ROWS_5x7SIZE);
     vTaskDelay(50 / portTICK_PERIOD_MS);
 
-    i2c_send_command(0x01);
+    i2c_send_command(LCD_CLEAR);
     vTaskDelay(50 / portTICK_PERIOD_MS);
 
-    i2c_send_command(0x06);
+    i2c_send_command(LCD_CURSOR_NEXT_CHAR);
     vTaskDelay(50 / portTICK_PERIOD_MS);
 
-    i2c_send_command(0x0C);
+    i2c_send_command(LCD_DISPLAY_ON_CURSOR_OFF);
     vTaskDelay(50 / portTICK_PERIOD_MS);
 
-    i2c_send_command(0x02);
+    i2c_send_command(LCD_CURSOR_BACK);
     vTaskDelay(50 / portTICK_PERIOD_MS);
 }
